@@ -1,5 +1,7 @@
 # my simple `gulpfile.js`
 
+`git clone https://github.com/zachey01/gulpfile.git .`
+
 ## getting started
 
 install dependencies - `npm i`
