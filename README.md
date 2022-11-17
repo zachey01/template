@@ -1,6 +1,6 @@
 # my simple template for front-end developming
 
-`git clone https://github.com/zachey01/gulpfile.git .`
+`git clone https://github.com/zachey01/template.git .`
 
 ## getting started
 
